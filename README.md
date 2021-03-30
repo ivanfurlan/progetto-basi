@@ -1,6 +1,5 @@
-# Progetto Basi di dati
+# Progetto Basi di dati - A.A. 2018/2019
 
-Progetto per il corso di Basi di dati 2018/2019 
-Progetto iniziato in coppia, ma poi completato e consegnato individualmente in quanto rimasto da solo.
+Progetto per il corso di Basi di dati tenuto dal Professore Mauro Conti all'Univestità degli Studi di Padova.
 
-Il progetto consistema nel progettare e realizzare una base di dati. Per maggiori informazioni vedere la relazione
+Il progetto consisteva nel progettare e realizzare una base di dati. Per maggiori informazioni vedere il file RelazioneProgetto.pdf
